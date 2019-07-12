@@ -1,5 +1,5 @@
- 
-{"version_code":451214,"content":"
+
+{"VERSION_CODE": 451214 ، "المحتوى": "
 <p>تحديث 1.60</p>
 
 <li>نسخة ضد الحظر (يجب عمل نسخة احتياطية للمحادثات ثم حذف الواتس اب وتثبيت التحديث الجديد حتى لا يتم حظر رقمك مستقبلا)</li>
@@ -12,7 +12,7 @@
 <li>إزالة بعض الميزات ليتم استرجاعها لاحقاً</li> 
 <li>اصلاحات اخرى</li>
 
-<li> Anti-Ban (Please take Backup - Uninstall App / Install GBWhatsApp v7.00)</li>
+<li> Anti-Ban (Please take Backup - Uninstall App / Install MHWhatsApp v1.60)</li>
 <li> Extend expiry for this Base</li>
 <li> Fixed Hidden Chat Count Showing on Main Screen</li>
 <li>Add Thiker with the possibility of copying the Thiker</li>
