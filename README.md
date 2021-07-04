@@ -1,1 +1,1 @@
-{'ver1':'1', 'ver2':'00', 'ver3':'\n• All the important features for WhatsAppR users have been added \n>• This first update is only for WhatsAppR \n' , 'dli':'https://www.arb3a.com/', 'exp845':'1', 'exp865':'1', 'exp850':'1', 'exp851':'100', 'exp860':'1'}
+{'ver1':'1', 'ver2':'00', 'ver3':'\n• All the important features for IDWhatsApp users have been added \n>• This first update is only for IDWhatsApp \n' , 'dli':'https://www.arb3a.com/', 'exp845':'1', 'exp865':'1', 'exp850':'1', 'exp851':'100', 'exp860':'1'}
